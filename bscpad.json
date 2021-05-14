@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "name": "8PAY Network",
+      "symbol": "8PAY",
+      "address": "0xFeea0bDd3D07eb6FE305938878C0caDBFa169042",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xFeea0bDd3D07eb6FE305938878C0caDBFa169042/logo.png"
+    }
+  ]
+}
